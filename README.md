@@ -28,6 +28,10 @@ To run the game locally:
 - CSS3
 - JavaScript
 
+## Preview
+![image](https://github.com/117Isabell/whac-a-mole-game/assets/112959154/efc55a03-95a2-445c-991e-94882f088015)
+
+
 ## Acknowledgments
 
 This project was created as a learning exercise and inspired by the classic Whac-a-Mole game.
