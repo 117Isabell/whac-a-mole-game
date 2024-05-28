@@ -2,6 +2,10 @@
 
 This project is a simple implementation of the classic Whac-a-Mole game using HTML, CSS, and JavaScript. The game involves a grid of squares where a "mole" randomly appears, and the player needs to click on the mole to score points within a certain time limit.
 
+## Preview
+
+![image](https://github.com/117Isabell/whac-a-mole-game/assets/112959154/efc55a03-95a2-445c-991e-94882f088015)
+
 ## Project Structure
 
 - **index.html**: Contains the structure and layout of the game interface.
@@ -27,10 +31,6 @@ To run the game locally:
 - HTML5
 - CSS3
 - JavaScript
-
-## Preview
-![image](https://github.com/117Isabell/whac-a-mole-game/assets/112959154/efc55a03-95a2-445c-991e-94882f088015)
-
 
 ## Acknowledgments
 

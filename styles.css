@@ -1,8 +1,23 @@
+#start-button {
+  position: absolute;
+  top: 50px;
+  left: 120px;
+  font-size: large;
+}
+
 .grid {
   width: 606px;
   height: 606px;
   display: flex;
   flex-wrap: wrap;
+}
+
+.center-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh; /* Adjust this value as needed */
 }
 
 .square {
